@@ -76,7 +76,8 @@ Click the links below to open each notebook in **Google Colab**:
 When you open a notebook for the first time, run the following cell to install the **Qiskit** package and set up your environment:
 
 ```python
-!pip install qiskit
+!pip install qiskit qiskit_aer qiskit-ibm-runtime matplotlib pylatexenc 
+ 
 ```
 
 This will install the required quantum programming tools for running the algorithms.
