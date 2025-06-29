@@ -18,19 +18,19 @@ This lab introduces both **basic** and **intermediate** quantum algorithms that 
    Explore how quantum mechanics can be used to generate truly random numbers. In this section, you will learn about the inherent randomness in quantum systems and how it differs from classical random number generation.
    Learn more:
 
-   * [IBM QRNG Explanation](https://quantum-computing.ibm.com/docs/glossary/quantum-random-number-generator)
+   * [Creating a Quantum Random Number Generator with IBM’s Qiskit (medium)](https://zach1020.medium.com/creating-a-quantum-random-number-generator-with-ibms-qiskit-48a90383490c)
 
 2. **Deutsch's Algorithm**
    Learn how **Deutsch's Algorithm** demonstrates a quantum advantage by determining whether a Boolean function is constant or balanced with a single quantum query. This foundational algorithm highlights how quantum computing can solve certain problems more efficiently than classical computers.
    Learn more:
 
-   * [Deutsch's Algorithm on IBM Quantum](https://quantum-computing.ibm.com/docs/guides/deutschs-algorithm)
+   * [Quantum query algorithms]([https://quantum-computing.ibm.com/docs/guides/deutschs-algorithm](https://learning.quantum.ibm.com/course/fundamentals-of-quantum-algorithms/quantum-query-algorithms))
 
 3. **Bell State Generation**
    Discover **entanglement**, one of the most profound phenomena in quantum mechanics. You will learn how to create **Bell states**, which are maximally entangled quantum states of two qubits. These states are a core resource for many quantum communication and computation protocols.
    Learn more:
 
-   * [Bell State Generation on IBM Quantum](https://quantum-computing.ibm.com/docs/guides/bell-state)
+   * [Introduction to Bell States]([https://quantum-computing.ibm.com/docs/guides/bell-state](https://quantumcomputinguk.org/tutorials/introduction-to-bell-states))
 
 ---
 
@@ -40,19 +40,19 @@ This lab introduces both **basic** and **intermediate** quantum algorithms that 
    This algorithm demonstrates how quantum computers can outperform classical ones in determining whether a function is constant or balanced with exponential speed-up. You will explore the power of quantum parallelism and how this algorithm uses quantum states to test multiple possibilities at once.
    Learn more:
 
-   * [Deutsch-Jozsa Algorithm on IBM Quantum](https://quantum-computing.ibm.com/docs/guides/deutsch-jozsa-algorithm)
+   * [Quantum query algorithms](https://learning.quantum.ibm.com/course/fundamentals-of-quantum-algorithms/quantum-query-algorithms)
 
 5. **Bernstein-Vazirani Algorithm**
    Learn how the **Bernstein-Vazirani Algorithm** allows quantum computers to extract a hidden bit string from a black-box function, solving the problem exponentially faster than classical computers.
    Learn more:
 
-   * [Bernstein-Vazirani Algorithm on IBM Quantum](https://quantum-computing.ibm.com/docs/guides/bernstein-vazirani-algorithm)
+   * [Bernstein-Vazirani Algorithm on IBM Quantum](https://docs.quantum.ibm.com/api/qiskit/0.31/qiskit.aqua.algorithms.BernsteinVazirani)
 
 6. **Quantum Teleportation**
    Get introduced to the concept of **quantum teleportation**, which allows the transfer of quantum states across space, without physically moving the qubits themselves. This fascinating application demonstrates the non-local nature of quantum entanglement.
    Learn more:
 
-   * [Quantum Teleportation on IBM Quantum](https://quantum-computing.ibm.com/docs/guides/quantum-teleportation)
+   * [Entanglement in action](https://learning.quantum.ibm.com/course/basics-of-quantum-information/entanglement-in-action)
 
 ---
 
