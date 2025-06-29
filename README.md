@@ -24,13 +24,13 @@ This lab introduces both **basic** and **intermediate** quantum algorithms that 
    Learn how **Deutsch's Algorithm** demonstrates a quantum advantage by determining whether a Boolean function is constant or balanced with a single quantum query. This foundational algorithm highlights how quantum computing can solve certain problems more efficiently than classical computers.
    Learn more:
 
-   * [Quantum query algorithms]([https://quantum-computing.ibm.com/docs/guides/deutschs-algorithm](https://learning.quantum.ibm.com/course/fundamentals-of-quantum-algorithms/quantum-query-algorithms))
+   * [Quantum query algorithms](https://learning.quantum.ibm.com/course/fundamentals-of-quantum-algorithms/quantum-query-algorithms)
 
 3. **Bell State Generation**
    Discover **entanglement**, one of the most profound phenomena in quantum mechanics. You will learn how to create **Bell states**, which are maximally entangled quantum states of two qubits. These states are a core resource for many quantum communication and computation protocols.
    Learn more:
 
-   * [Introduction to Bell States]([https://quantum-computing.ibm.com/docs/guides/bell-state](https://quantumcomputinguk.org/tutorials/introduction-to-bell-states))
+   * [Introduction to Bell States](https://quantumcomputinguk.org/tutorials/introduction-to-bell-states)
 
 ---
 
@@ -64,12 +64,13 @@ You can easily run the notebooks in this repository directly on **Google Colab**
 
 Click the links below to open each notebook in **Google Colab**:
 
-* [Quantum Random Number Generator (QRNG)](https://colab.research.google.com/github/Sunkohli/Lab-1-Quantum-Algorithm/blob/main/QRNG.ipynb)
-* [Deutsch's Algorithm](https://colab.research.google.com/github/Sunkohli/Lab-1-Quantum-Algorithm/blob/main/Deutsch_Algorithm.ipynb)
-* [Bell State Generation](https://colab.research.google.com/github/Sunkohli/Lab-1-Quantum-Algorithm/blob/main/Bell_State_Generation.ipynb)
-* [Deutsch-Jozsa Algorithm](https://colab.research.google.com/github/Sunkohli/Lab-1-Quantum-Algorithm/blob/main/Deutsch_Jozsa_Algorithm.ipynb)
-* [Bernstein-Vazirani Algorithm](https://colab.research.google.com/github/Sunkohli/Lab-1-Quantum-Algorithm/blob/main/Bernstein_Vazirani_Algorithm.ipynb)
-* [Quantum Teleportation](https://colab.research.google.com/github/Sunkohli/Lab-1-Quantum-Algorithm/blob/main/Quantum_Teleportation.ipynb)
+Created using Colab
+* [Quantum Random Number Generator (QRNG)](https://colab.research.google.com/github/v2rinku/Lab-1-Quantum-Algorithm/blob/main/QRNG_Algo.ipynb)
+* [Deutsch's Algorithm](https://colab.research.google.com/github/v2rinku/Lab-1-Quantum-Algorithm/blob/main/Deutsch_algo.ipynb)
+* [Bell State Generation](https://colab.research.google.com/github/v2rinku/Lab-1-Quantum-Algorithm/blob/main/Create_Bell_states.ipynb)
+* [Deutsch-Jozsa Algorithm](https://colab.research.google.com/github/v2rinku/Lab-1-Quantum-Algorithm/blob/main/DJ_algo.ipynb)
+* [Bernstein-Vazirani Algorithm](https://colab.research.google.com/github/v2rinku/Lab-1-Quantum-Algorithm/blob/main/Bernstein_Vazirani_Algorithm.ipynb)
+* [Quantum Teleportation](https://colab.research.google.com/github/v2rinku/Lab-1-Quantum-Algorithm/blob/main/Quantum_Teleportation.ipynb)
 
 ### 2. **Set Up Qiskit in Google Colab**
 
