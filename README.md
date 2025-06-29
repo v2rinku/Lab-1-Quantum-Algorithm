@@ -8,6 +8,14 @@ Welcome to **Lab 1: Quantum Algorithms**! This hands-on lab will guide you throu
 
 This lab introduces both **basic** and **intermediate** quantum algorithms that leverage the power of quantum mechanics. By the end of the lab, you will have practical experience coding quantum algorithms in Python using the **Qiskit framework**.
 
+**This repository contains a collection of quantum algorithms adapted from the [Qiskit Community Tutorials](https://github.com/qiskit-community/qiskit-community-tutorials). The original implementations can be found in the following sections of the community repository:**
+
+* [Coding with Qiskit](https://github.com/qiskit-community/qiskit-community-tutorials/tree/master/Coding_With_Qiskit)
+* [Algorithms](https://github.com/qiskit-community/qiskit-community-tutorials/tree/master/algorithms)
+
+These algorithms have been **modified to work with the latest version of Qiskit** and tested to ensure compatibility with recent updates.
+
+
 ### 🧠 Topics Covered:
 
 ---
@@ -99,6 +107,9 @@ Feel free to modify the code, change parameters, or experiment with different qu
 * **Qiskit** (Automatically installed in Colab using `!pip install`)
 
 ---
+## Explore More
+
+To discover additional algorithms and quantum programming examples, visit the [Qiskit Community Tutorials – Algorithms](https://github.com/qiskit-community/qiskit-community-tutorials/tree/master/algorithms) section.
 
 ## 🌐 Additional Resources
 
